@@ -1,0 +1,28 @@
+.navList {
+    text-align: center;
+    margin-left: 46%;
+    list-style: none;
+    display: flex;
+    margin-top: 0;
+    padding-top: 15px;
+}
+
+.navLink {
+    color: rgb(120, 92, 59);
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.navLink:hover {
+    color: orange;
+}
+
+.item:last-child {
+    margin-left: 20px;
+}
+
+nav {
+    background-color: rgb(255, 248, 210);
+    height: 50px;
+}

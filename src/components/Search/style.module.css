@@ -1,0 +1,18 @@
+.popularList {
+    list-style: none;
+    text-align: center;
+}
+
+.popularLink {
+    text-decoration: none;
+    color: black;
+}
+
+.popularLink:hover {
+    color: palevioletred;
+}
+
+.popularItem {
+    padding-top: 10px;
+    font-size: 18px;
+}
