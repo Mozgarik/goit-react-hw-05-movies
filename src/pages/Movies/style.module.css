@@ -1,0 +1,23 @@
+.searchForm {
+    margin-left: 46%;
+    margin-top: 60px;
+}
+
+.formInput {
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    width: 200px;
+}
+
+.formButton {
+    border-radius: 5px;
+   border-color: antiquewhite;
+    width: 80px;
+    height: 45px;
+    color: gray;
+    font-weight: 600;
+}
